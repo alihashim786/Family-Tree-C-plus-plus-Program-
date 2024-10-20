@@ -9,4 +9,9 @@ got registered for the first time. The core responsibility of a familyTree class
 less children of each person, displaying the data of whole tree , finding other facts about the
 family. Your implemented class must fully provide the definitions of following class (interface) functions.
 
-**The details of the probelm is in attched familytree.pdf file. Go there for complete understading of the Code anf problem**
+**The details of the probelm is in attched *familytree.pdf* file. Go there for complete understading of the Code anf problem**
+
+## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
+If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
